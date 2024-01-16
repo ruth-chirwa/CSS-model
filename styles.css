@@ -1,0 +1,20 @@
+.canvas{
+    width: 500px;
+    height: 600px;
+    background-color: brown;
+}
+
+.frame{
+    width: 500px;
+    height: 600px;
+    border: 60px solid black;
+    padding: 50px;
+    margin: 30px auto;
+}
+
+.one{
+    width: 400px;
+    height: 125px;
+    background-color: #5e7a98;
+    margin: 20px auto;
+}
